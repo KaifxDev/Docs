@@ -1,4 +1,4 @@
-<h1 align="center">🍻 SwiftOnTap</h1>
+<h1 align="center">🍻 SwiftOnTap is back.</h1>
 
 <h3 align="center"> Complete SwiftUI Docs with Examples. </h3>
 
